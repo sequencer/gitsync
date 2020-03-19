@@ -1,0 +1,5 @@
+[Unit]
+Description=sync git
+
+[Service]
+ExecStart=/bin/bash /*path to sync.sh*/
